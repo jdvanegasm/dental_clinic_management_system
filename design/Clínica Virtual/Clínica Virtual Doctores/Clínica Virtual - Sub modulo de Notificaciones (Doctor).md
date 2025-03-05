@@ -1,0 +1,3 @@
+- **Se le notificará al doctor via correo Electrónico y via Plataforma las próximas citas en su calendario**
+- **Notificación del doctor al paciente de la historia clínica y demás*
+- **Notificación al cliente via correo electrónico y plataforma en caso de que el doctor por fuerza mayor no pueda asistir a la Cita**
